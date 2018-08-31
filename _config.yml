@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              张念的专属网站
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -41,8 +41,8 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Shanghai, CHN
+phone:              xxx-xxx-xxxx
 email:              info@default.com
 
 # Gems
@@ -53,7 +53,7 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-paginate: 6
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
