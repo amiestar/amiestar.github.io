@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是一篇测试性的文章"
+title:  "这是一篇用于测试的文章"
 date:   2018-8-31
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
